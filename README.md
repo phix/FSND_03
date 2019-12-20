@@ -21,3 +21,7 @@ iii. A summary of software you installed and configuration changes made.
  
 iv. A list of any third-party resources you made use of to complete this project:
 	git,flask, sqlalchemy, google oauth,  postgresql, psycopg2, apache
+	
+	http://www.fail2ban.org/wiki/index.php/Main_Page
+	https://help.ubuntu.com/lts/serverguide/automatic-updates.html
+	https://help.ubuntu.com/community/SSH/OpenSSH/Keys
